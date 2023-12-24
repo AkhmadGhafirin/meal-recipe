@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Meal Recipe</string>
+    <string name="search_hint">Search by name</string>
+    <string name="american">American</string>
+    <string name="canadian">Canadian</string>
+    <string name="area">Area</string>
+    <string name="category">Category</string>
+    <string name="filter">Filter</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="search">Search</string>
+    <string name="detail">Detail Recipe</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="added_to_bookmark">Added to Bookmark</string>
+    <string name="remove_from_bookmark">Remove from Bookmark</string>
+    <string name="ingredient">%1$s %2$s</string>
+    <string name="bookmarks">Bookmarks</string>
+</resources>
